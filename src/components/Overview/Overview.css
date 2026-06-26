@@ -1,0 +1,29 @@
+.overview{
+
+text-align:center;
+
+padding:110px 0;
+
+}
+
+.overview h2{
+
+font-size:48px;
+
+margin-bottom:30px;
+
+}
+
+.overview p{
+
+max-width:760px;
+
+margin:auto;
+
+line-height:1.9;
+
+color:var(--muted);
+
+font-size:18px;
+
+}

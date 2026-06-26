@@ -1,0 +1,51 @@
+.trusted{
+
+padding:70px 0;
+
+text-align:center;
+
+}
+
+.trusted p{
+
+font-weight:600;
+
+letter-spacing:2px;
+
+margin-bottom:40px;
+
+color:var(--muted);
+
+}
+
+.logos{
+
+display:flex;
+
+justify-content:space-between;
+
+align-items:center;
+
+flex-wrap:wrap;
+
+gap:40px;
+
+opacity:.7;
+
+}
+
+.logos img{
+
+height:38px;
+
+transition:.2s;
+
+}
+
+.logos img:hover{
+
+opacity:1;
+
+transform:scale(1.08);
+
+}
